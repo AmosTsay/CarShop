@@ -59,7 +59,7 @@ h6 {
 	line-height: 1.5;
 }
 a {
-	color: #color: #ccc;
+	color: #ccc;
 	text-decoration: none !important;
 	-moz-transition: all 0.5s ease-in-out 0s;
 	-ms-transition: all 0.5s ease-in-out 0s;
@@ -71,7 +71,7 @@ img {
 	max-width: 100%;
 }
 a:hover {
-	color: #color: #ccc;
+	color: #ccc;
 	-moz-transition: all 0.4s ease-in-out 0s;
 	-ms-transition: all 0.4s ease-in-out 0s;
 	-o-transition: all 0.4s ease-in-out 0s;
@@ -80,7 +80,7 @@ a:hover {
 }
 a:hover,
 a:focus {
-	color: #color: #ccc;
+	color: #ccc;
 	text-decoration: none;
 }
 p {
@@ -102,7 +102,7 @@ p {
 .form-control:focus {
 	box-shadow: none;
 	outline: 0 none;
-	border-bottom: 1px solid #color: #ccc;
+	border-bottom: 1px solid #ccc;
 }
 .btn:focus {
 	outline: none !important;
@@ -126,10 +126,10 @@ button:focus {
 	text-transform: capitalize;
 	letter-spacing: 0.5px;
 	font-weight: 600;
-	border: 2px solid #color: #ccc;
+	border: 2px solid  #ccc;
 	border-radius: 30px;
 	color: #111;
-	background: #color: #ccc;
+	background:  #ccc;
 	cursor: pointer;
 	margin-top: 25px;
 	overflow: hidden;
@@ -140,7 +140,7 @@ button:focus {
 	-o-transition: all .4s;
 }
 .button:hover {
-	color: #color: #ccc;
+	color: #ccc;;
 	background: transparent;
 }
 
@@ -151,7 +151,7 @@ button:focus {
 	background: none !important;
 }
 .color-text {
-	color: #color: #ccc;
+	color: #ccc;
 }
 dl,
 ol,
@@ -213,7 +213,7 @@ ul {
 	margin-bottom: 75px;
 }
 .section-title h5 {
-	color: #color: #ccc;
+	color: #ccc;
 	font-size: 16px;
 	font-weight: 600;
 	margin-bottom: 10px;
@@ -246,7 +246,7 @@ ul {
 	top: 0;
 	right: 15px;
 	color: #2B2E5EFF;
-	background: #color: #ccc;
+	background:  #ccc;
 	z-index: 4;
 	width: 40px;
 	text-align: center;
@@ -453,16 +453,16 @@ ul {
 	border: 2px solid transparent;
 }
 .owl-theme .owl-dots .owl-dot.active span {
-	background-color: #color: #ccc !important;
+	background-color: #ccc; !important;
 	width: 7px;
 	height: 7px;
 	transition: .3s;
-	-webkit-box-shadow: 0 1px 5px #color: #ccc;
-	box-shadow: 0 1px 5px #color: #ccc;
+	-webkit-box-shadow: 0 1px 5px #ccc;
+	box-shadow: 0 1px 5px #ccc;
 }
 .owl-theme .owl-dots .owl-dot:hover span {
 	background-color: transparent;
-	border: 2px solid #color: #ccc;
+	border: 2px solid #ccc;
 	transition: .3s;
 }
 
@@ -713,7 +713,7 @@ ul {
 }
 
 .header-navber-area .nav-top-bar.template-color-bg {
-  background: #color: #ccc;
+  background: #ccc;
   border-bottom: none;
 }
 
@@ -771,7 +771,7 @@ ul {
 }
 .navbar-b.navbar-trans .nav-link:hover,
 .navbar-b.navbar-reduce .nav-link:hover {
-	color: color: #ccc;
+	color:  #ccc;
 }
 .main-index-nav.navbar-b.navbar-trans .nav-link:hover {
 	color: #333;
@@ -824,7 +824,7 @@ ul {
 	color: #333;
 }
 .navbar-b.navbar-reduce .navbar-toggler span {
-	background-color: color: #ccc;
+	background-color: #0b2e13;
 }
 .navbar-b .navbar-brand {
 	color: #111;
@@ -847,12 +847,12 @@ ul {
 	transition: all 500ms ease;
 }
 .navbar-b .dropdown-menu .dropdown-item:hover {
-	background-color: #color: #ccc;
+	background-color: #ccc;
 	color: #111;
 	transition: all 500ms ease;
 }
 .navbar-b .dropdown-menu .dropdown-item.active {
-	background-color: #color: #ccc;
+	background-color: #ccc;
 }
 .navbar-toggler {
 	position: relative;
@@ -1156,7 +1156,7 @@ ul {
 }
 
 .flickity-dots-white .flickity-page-dots .dot.is-selected::after {
-	background-color: #color: #ccc;
+	background-color: #ccc;
 }
 
 .flickity-prev-next-button {
@@ -1175,7 +1175,7 @@ ul {
 	width: 14px;
 	height: 14px;
 	margin: auto;
-	fill: #color: #ccc;
+	fill:  #ccc;
 }
 
 .ios .flickity-prev-next-button .flickity-button-icon {
@@ -1337,7 +1337,7 @@ ul {
 	z-index: -1;
 }
 .about-content h5 {
-	color: #color: #ccc;
+	color: #ccc;
 	font-size: 16px;
 	font-weight: 600;
 	margin-bottom: 10px;
@@ -1349,7 +1349,7 @@ ul {
 	margin-bottom: 15px;
 }
 .about-content h3 {
-	color: #color: #ccc;
+	color: #ccc;
 	font-size: 20px;
 	font-weight: 600;
 	margin-bottom: 15px;
@@ -1509,7 +1509,7 @@ ul {
 	margin-bottom: 0;
 }
 .team-info span {
-	color: #color: #ccc;
+	color: #ccc;
 	font-size: 15px;
 	font-weight: 500;
 	display: block;
@@ -1731,7 +1731,7 @@ ul {
 }
 
 .blog-area .single-blog .blog-content h3 a:hover {
-	color: #color: #ccc;
+	color: #ccc;
 	text-decoration: underline !important;
 }
 
@@ -1750,7 +1750,7 @@ ul {
 }
 
 .single-blog .blog-content .blog-bottom-text-link a:hover {
-	color: #color: #ccc;
+	color: #ccc;
 	text-decoration: underline !important;
 }
 
@@ -1800,7 +1800,7 @@ ul {
 	background-color: #f5f5fa;
 	font-weight: 500;
 	border-radius: 3px;
-	border-left: 3px solid #color: #ccc;
+	border-left: 3px solid #ccc;
 }
 .contact-area .form textarea {
 	max-height: 120px;
@@ -1909,7 +1909,7 @@ textarea:focus {
 }
 
 .footer-link li a:hover {
-	color: #color: #ccc;
+	color: #ccc;
 	text-decoration: underline;
 }
 
@@ -1940,7 +1940,7 @@ textarea:focus {
 }
 
 .footer-social li a:hover {
-	background-color: #color: #ccc;
+	background-color: #ccc;
 	color: #111;
 }
 
@@ -1978,7 +1978,7 @@ textarea:focus {
     transform: translateY(-50%);
     right: 5px;
     color: #111;
-	background-color: #color: #ccc;
+	background-color: #ccc;
     text-transform: capitalize;
     color: #111;
     font-size: 15px;
