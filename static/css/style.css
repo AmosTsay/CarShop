@@ -145,7 +145,7 @@ button:focus {
 }
 
 .bg-gray {
-	background-color: #fbfbfb;
+	background-color: #3a3131;
 }
 .bg-none {
 	background: none !important;
@@ -220,10 +220,10 @@ ul {
 	letter-spacing: 0.3px;
 }
 .section-title h2 {
+	color: #ccc;
 	font-weight: 700;
 	text-transform: capitalize;
 	font-size: 33px;
-	color: #333;
 }
 .display-table {
 	width: 100%;
@@ -762,7 +762,7 @@ ul {
 }
 .navbar-b.navbar-trans .nav-link,
 .navbar-b.navbar-reduce .nav-link {
-	color: #111;
+	color: #e8e2e2;
 	text-transform: capitalize;
 	font-weight: 600;
 	font-size: 15px;
@@ -777,7 +777,7 @@ ul {
 	color: #333;
 }
 .navbar-b.navbar-trans .nav-link:hover {
-	color: #111;
+	color: #d5c730;
 }
 .main-index-nav.navbar-b.navbar-trans .show > .nav-link,
 .main-index-nav.navbar-b.navbar-trans .active > .nav-link,
@@ -789,7 +789,7 @@ ul {
 .navbar-b.navbar-trans .active > .nav-link,
 .navbar-b.navbar-trans .nav-link.show,
 .navbar-b.navbar-trans .nav-link.active {
-	color: #111;
+	color: #f5f1f1;
 }
 .navbar-b.navbar-reduce {
 	transition: all .5s ease-in-out;
@@ -998,12 +998,12 @@ ul {
 	margin-right: 15px;
 }
 .button.home-btn-1:hover {
-	color: #2B2E5EFF;
+	color: #d1d2da;
 	background: transparent;
 	border: 2px solid #ffffff;
 }
 .button.home-btn-2:hover {
-	color: #2B2E5EFF;
+	color: #ebecf5;
 	background: transparent;
 	border: 2px solid #ffffff;
 }
@@ -1248,8 +1248,9 @@ ul {
 .single-services-box {
 	padding: 30px 15px;
 	text-align: center;
-	background-color: #2B2E5EFF;
-	margin-top: 30px;
+	background-color: #090b1a;
+	margin-top: 10px;
+	color:white;
 	display: block;
     border-radius: 5px;
 	-webkit-box-shadow: 0px 0px 15px 0px rgb(72, 73, 121, 0.15);
@@ -1344,6 +1345,7 @@ ul {
 	letter-spacing: 0.3px;
 }
 .about-content h2 {
+	color: #ccc;
 	font-size: 32px;
 	font-weight: 700;
 	margin-bottom: 15px;
@@ -1521,9 +1523,9 @@ ul {
 
 .counter-area {
 	text-align: center;
-	background-color: #0c0c0e;
+	background-color: #1f1f28;
 	position: relative;
-	color: #0c0c0c;
+	color: #ffffff;
 	text-align: center;
 	background: url(../image/bernz_bg.jpg);
 	background-repeat: no-repeat;
@@ -1542,7 +1544,7 @@ ul {
 	width: 100%;
 	opacity: .8;
 	z-index: -1;
-	background: #000;
+	background: #2f2e2e;
 }
 .counter-area .section-title h5 {
 	color: #2B2E5EFF;
