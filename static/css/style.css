@@ -915,13 +915,13 @@ ul {
  *************************************/
 
 .home-area {
-	height: 100vh;
+	height: 300vh;
 	position: relative;
-	color: #050505;
+	color: #060649;
 	text-align: center;
-	background: url(../image/bernz_bg.jpg);
+	background: url(../image/logo4.jpg);
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: auto;
 	background-position: center;
 	z-index: 1;
 	padding-top: 150px;
@@ -1540,11 +1540,11 @@ ul {
 	color: #ffffff;
 	text-align: center;
 	background: url(../image/bernz_bg.jpg);
-	background-repeat: no-repeat;
+	background-repeat: repeat-x;
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
-	z-index: 1;
+	z-index: 2;
 }
 .counter-area::after {
 	position: absolute;
